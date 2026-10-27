@@ -1,0 +1,12 @@
+ani-tupi
+beautifulsoup4
+httpx
+cloudscraper
+diskcache
+loguru
+pydantic
+pydantic-settings
+rich
+selenium
+thefuzz
+yt-dlp
